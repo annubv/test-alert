@@ -20,6 +20,7 @@
   "dependencies": {
     "glob-parent": "^5.1.1",
     "path-parse": "^1.0.6",
-    "url-parse": "^1.5.1"
+    "url-parse": "^1.5.1",
+    "ws": "^7.4.3"
   }
 }
